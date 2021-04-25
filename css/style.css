@@ -728,6 +728,32 @@ p {
 .dark_bg .single-service p{
 	color: #fff;
 }
+
+.single-service img {
+	width: 70px;
+    height: 70px;
+	line-height: 70px;
+	border-radius: 50%;
+	background: #efeded;
+	border: 1px solid #efeded;
+	text-align: center;
+	transition: all 0.4s ease;
+    font-size: 35px;
+    display: inline-block;
+    color: #7564e5;
+}
+.dark_bg .single-service img{
+	background: transparent;
+	border: 1px solid #7564e5;
+}
+.single-service:hover img{
+	-webkit-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    transform: rotate(360deg);
+	background: #7564e5;
+	border: 1px solid #7564e5;
+	color: #fff;
+}
 /*
 * ----------------------------------------------------------------------------------------
 * 05. END SERVICE DESIGN
