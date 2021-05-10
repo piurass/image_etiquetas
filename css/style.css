@@ -677,6 +677,7 @@ p {
 	border-radius: 10px;
     margin-bottom: 30px;
     transition: all 0.4s ease;
+    height: 574px;
 }
 .dark_bg .single-service{
 	background: transparent;
