@@ -1,0 +1,838 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+	<head>
+		<!-- Meta -->
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="Rótulos e Etiquetas">  
+		<meta name="keywords" content="rótulos, etiquetas, adesivos, rótulo para alimento, rótulo para bebida, rotulo para cosmetico, rotulo para industria de moveis, rotulo para medicamentos, rotulo para produto quimico, rotulos para carnes e frigorificos, etiqueta colorida, etiqueta de papel para impressao com ribbon, etiqueta de papel para impressao termica">
+		<meta name="author" content="Rogério de Alencar Santos"> 
+		<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+		<!-- SITE TITLE -->
+		<title>Image Etiquetas - Soluções em Etiquetas e Rótulos</title>
+		<link href="https://fonts.googleapis.com/css?family=Poppins:300i,400,400i,500,600,700,800" rel="stylesheet">		
+		<link href="css/bootstrap.min.css" rel="stylesheet"/>
+		<link href="fonts/font-awesome.min.css" rel="stylesheet"/>
+		<link href="fonts/themify-icons.css" rel="stylesheet"/>
+		<link rel="icon" href="images/favicon.jpg"/>
+		<link href="css/owl.carousel.min.css" rel="stylesheet"/>
+		<link href="css/owl.theme.default.min.css" rel="stylesheet"/>
+		<link href="css/lightbox.min.css" rel="stylesheet"/>
+		<link href="css/owl.theme.default.min.css" rel="stylesheet"/>
+		<link href="css/animate.min.css" rel="stylesheet"/>
+		<link href="css/normalize.css" rel="stylesheet"/>
+		<link href="css/style.css" rel="stylesheet"/>
+		<link href="css/responsive.css" rel="stylesheet"/>
+		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+	</head>
+	
+	 <body data-spy="scroll" data-offset="80">
+		<!-- START PRELOADER -->
+			<div class="preloader">
+				<div class="loader">
+					<div class="loader-outter"></div>
+					<div class="loader-inner"></div>
+
+					<span>Image Etiquetas</span>
+				</div>
+			</div>
+		<!-- END PRELOADER -->
+		
+		<!-- START HEADER -->
+			<header class="header_area">
+				<!-- START NAVBAR -->
+					<div class="main_header navbar navbar-default menu-top">
+						<div class="container">
+							<div class="row">
+								<div class="col-md-2 col-sm-2 col-xs-4">
+									<div class="logo">
+										<a href="index.html"><img src="images/logo-1.png" alt="imagem etiquetas" /></a>
+										<div class="mobile-nav"></div>
+									</div>
+								</div>
+								
+								<div class="col-md-10 col-sm-10 col-xs-8">
+									<div class="navbar-header">
+										<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+											<span class="fa fa-navicon"></span>
+										</button>
+									</div>
+									
+									<nav id="navbar" class="navbar-collapse collapse">
+										<ul class="nav navbar-nav navbar-right">
+											<li><a href="#home">Home</a></li>
+											<li><a href="#about_us">Empresa</a></li>
+											<li><a href="#service">Etiquetas</a></li>
+											<li><a href="#service2">Rótulos</a></li>
+											<li><a href="galeria.html#portfolio">Galeria</a></li>
+											<!--<li><a href="#team">Clientes</a></li>-->	
+											<li><a href="#blog">Informativo</a></li>														
+											<li><a href="#contact">Contato</a></li>
+										</ul>
+									</nav> 
+								</div>
+							</div>
+						</div><!--- END CONTAINER -->
+					</div> 
+				<!-- END NAVBAR -->	
+			</header>
+		<!-- END HEADER -->
+		
+		<!-- START HOME -->
+			<section id="home" class="welcome-area">
+				<div class="welcome-slider-area">
+					<div id="welcome-slide-carousel" class="carousel slide carousel-fade" data-ride="carousel">
+						<div class="carousel-inner" role="listbox">
+							<div class="item active">
+								<div class="single-slide-item" style="background-image: url(images/1.png); max-height: 100%; background-size: cover;">
+									<div class="single-slide-item-table">
+										<div class="single-slide-item-tablecell">
+											<div class="container">
+												<div class="row">
+													<div class="col-md-12">
+														<h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">Image Etiquetas e Rótulos</h1>	
+														<p class="wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s" data-wow-offset="0">oferecemos melhores condições para você.<br/></p>
+														
+														<div class="single_slide_item_button wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s" data-wow-offset="0">
+															<a href="#about_us" class="slider_btn s_bg_btn">saiba mais</a>
+															<a href="#contact" class="slider_btn">contato</a>
+														</div>
+													</div> 
+													<br><br><br><br><p class="wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">PAGAMENTO EM ATÉ 3x no cartão<span> de crétito</span></p>
+
+												</div> <!--END  ROW  -->
+											</div> <!-- END CONTAINER -->
+										</div>
+									</div>
+								</div> <!-- END SLIDER ITEM -->
+							</div>
+							<div class="item" style="background-image: url(images/2.png); max-height: 100%; background-size: cover;">
+								<div class="single-slide-item slide-2">
+									<div class="single-slide-item-table">
+										<div class="single-slide-item-tablecell">
+											<div class="container">
+												<div class="row">
+													<div class="col-md-12">
+														<h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">Image Etiquetas e Rótulos</h1>	
+														<p class="wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s" data-wow-offset="0">oferecemos melhores condições para você.<br/></p>
+														
+														<div class="single_slide_item_button wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s" data-wow-offset="0">
+															<a href="#about_us" class="slider_btn s_bg_btn">saiba mais</a>
+															<a href="#contact" class="slider_btn">contato</a>
+														</div>
+													</div> <!-- END COL  -->
+													<br><br><br><br><p class="wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">PAGAMENTO EM ATÉ 3x no cartão<span> de crétito</span></p>
+												</div> <!--END  ROW  -->
+											</div> <!-- END CONTAINER -->
+										</div>
+									</div>
+								</div>
+							</div> <!-- END SLIDER ITEM -->
+							<div class="item" style="background-image: url(images/3.png); max-height: 100%; background-size: cover;">
+								<div class="single-slide-item slide-3">
+									<div class="single-slide-item-table">
+										<div class="single-slide-item-tablecell">
+											<div class="container">
+												<div class="row">
+													<div class="col-md-12">
+															<h1 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">Image Etiquetas e Rótulos</h1>	
+														<p class="wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s" data-wow-offset="0">oferecemos melhores condições para você.<br/></p>
+														<div class="single_slide_item_button wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s" data-wow-offset="0">
+															<a href="#about_us" class="slider_btn s_bg_btn">Saiba mais</a>
+															<a href="#contact" class="slider_btn">contatos</a>
+														</div>
+													</div> <!-- END COL  -->
+													<br><br><br><br><p class="wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">PAGAMENTO EM ATÉ 3x no cartão<span> de crétito</span></p>
+												</div> <!--END  ROW  -->
+											</div> <!-- END CONTAINER -->
+										</div>
+									</div>
+								</div>
+							</div> <!-- END SLIDER ITEM -->
+						</div>
+						
+					 <!-- Controls -->
+					  <a class="left carousel-control" href="#welcome-slide-carousel" role="button" data-slide="prev">
+						<i class="ti-hand-point-left" aria-hidden="true"></i>
+					  </a>
+					  <a class="right carousel-control" href="#welcome-slide-carousel" role="button" data-slide="next">
+						<i class="ti-hand-point-right" aria-hidden="true"></i>
+					  </a>					
+					</div>
+				</div> <!-- END SLIDER AREA -->				
+			</section>
+		<!-- END  HOME DESIGN -->
+		
+		
+		<!-- START ABOUT-US -->
+			<section id="about_us" class="gray_bg section_padding">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-6 col-sm-6">
+							<div class="single_about wow fadeInLeft">
+								<div class="about_title">
+									<span>Empresa</span>
+									<h2>Quem somos</h2>
+									<p class="description">
+										Fundada em 1996, somos uma empresa especializada em produção de etiquetas adesivas, rótulos, lacre de segurança e etiquetas em tecido, em pequenas e grandes tiragens.
+
+										Visando atendimento diferenciado, dispomos de equipamentos modernos, todos importados, oferecendo qualidade em nossos produtos e pontualidade na entrega.
+										
+										Usamos matéria prima de ponta como
+										Avery Dennison (Fasson) , Colacril e 3M.
+										
+										Atendemos todo o Brasil em qualquer quantidade. 
+									</p>
+								</div>
+								<a href="#service" class="btn btn-default main_btn">Saiba mais</a>
+							</div>
+						</div> <!-- END COL -->
+						
+						<div class="col-md-6 col-sm-6">
+							<div class="single-about wow fadeInRight">
+								<!--<img src="images/about.jpg" alt="Quem somos" /> -->
+								
+							</div>
+						</div> <!-- END COL -->
+					</div> <!-- END ROW -->
+				</div>	<!-- END CONTAINER -->
+			</section>
+		<!-- END ABOUT-US -->
+
+		<!-- START COUNTERUP -->
+			<section id="counter_area" style="background-image: url(images/counterup.jpg);  background-size:cover; background-position: center center;background-attachment:fixed;">
+				<div class="count_overlay">
+					<div class="container">
+						<div class="counter-content text-center">
+							<div class="row">
+								<div class="col-md-3 col-sm-6">
+									<div class="count">
+										<h3><span class="counter">350</span>+</h3>
+										<h5>Tipo de Etiquetas</h5>		
+									</div>
+								</div> <!-- END COL -->
+								
+								<div class="col-md-3 col-sm-6">
+									<div class="count">
+										<h3><span class="counter">462</span></h3>
+										<h5>Clientes Atendidos</h5>		
+									</div>
+								</div> <!-- END COL -->
+								
+								<div class="col-md-3 col-sm-6">
+									<div class="count">
+										<h3><span class="counter">23</span>+</h3>
+										<h5>Anos no mercado</h5>		
+									</div>
+								</div> <!-- END COL -->
+								
+								<div class="col-md-3 col-sm-6">
+									<div class="count">
+										<h3><span class="counter">15</span></h3>
+										<h5>Estados do Brasil</h5>		
+									</div>
+								</div> <!-- END COL -->
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+		<!-- END COUNTERUP -->
+		
+		<!-- START SERVICE -->
+			<section id="service" class="section_padding">
+				<div class="container">
+					<div class="section_heading text-center wow zoomIn">
+						<h2>Nossas <span>Etiquetas</span></h2>
+						<p><br/>Produzimos diversos tipos de Etiquetas e Rótulos</p>	
+					
+						<div class="section_heading_border">
+							<span></span>
+							<span></span>
+							<span></span>
+						</div>
+					</div> <!-- END HEADING -->
+					
+					<div class="row text-center">
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="single-service wow fadeInRight">
+								<img src="images/etiqueta_em_branco_2.jpg" alt="etiqueta em branco"/>
+								<h4>ETIQUETA EM BRANCO</h4>
+								<P>Na Image Etiquetas você encontra etiquetas em branco em diversos materiais e formatos, que servem para diversas finalidades.</P>
+								<a href="etiquetas_adesivas_em_branco.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+							</div>
+						</div> <!-- End Col -->
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="single-service wow fadeInRight">
+								<img src="images/etiqueta_colorida (fundo_chapado).png" alt="etiqueta colorida"/>
+								<h4>Etiqueta colorida (fundo chapado)</h4>
+								<P>Assim como as etiquetas em branco, também fabricamos etiquetas em coloridas em qualquer medida, cor e em qualquer formato e tamanho.</P>
+								<a href="etiqueta_colorida (fundo_chapado).html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+							</div>
+						</div> <!-- End Col -->
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="single-service wow fadeInRight">
+								<img src="images/etiqueta_codigo_de_barras_1.jpg" alt="codigo de barras"/>
+								<h4>Etiqueta para produtos
+									(código de barras)</h4>
+								<P>As etiquetas com código de barras estão presentem em inúmeros produtos. Na maioria das vezes as etiquetas de código de barras são adicionadas na indústria (na origem do produto), mas também podem ser coladas em varejos médios e pequenos quando recebem itens sem rótulos.)</P>
+								<a href="etiqueta_para_produto_codigo_de_barras.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+							</div>
+						</div> <!-- End Col -->
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="single-service wow fadeInRight">
+								<img src="images/etiqueta_para_balança.png" alt="etiqueta para balança"/>
+								<h4>Etiqueta para balança</h4>
+								<P>As etiquetas para balanças são utilizadas em padarias, mercearias, supermercados e açougues.
+									As etiquetas para balança são feitas em material de qualidade, dando mais resistência contra água, óleos, solventes e plastificantes.</P>
+								<a href="etiqueta_para_balança.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+							</div>
+						</div> <!-- End Col -->
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="single-service wow fadeInRight">
+								<img src="images/etiqueta_para_gôndola.png" alt="etiqueta para gôndola"/>
+								<h4>Etiqueta para gôndola</h4>
+								<P>As etiquetas para gôndola são pequenas etiquetas, geralmente em papel – sem cola, com marcação de preços e promoções, que são encaixadas em suportes de acetato.</P>
+								<a href="etiqueta_para_gôndola.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+							</div>
+						</div> <!-- End Col -->
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="single-service wow fadeInRight">
+								<img src="images/etiqueta_para_joias_e_bijuterias.png" alt="etiqueta para joias e bijuterias"/>
+								<h4>Etiqueta para joias e bijuterias</h4>
+								<P>As etiquetas para joias, bijuterias e outros objetos pequenos são etiquetas autoadesivas que não são coladas exatamente nas peças, mas dobradas sobre si mesmas, de modo que uma “alça” fique presa no anel ou corrente.</P>
+								<a href="etiqueta_para_joias_e_bijuterias.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+							</div>
+						</div> <!-- End Col -->
+						
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="single-service wow fadeInRight">
+								<img src="images/etiqueta_de_papel_para_impressao_termica_1.jpg" alt="Etiqueta de papel para impressao termica"/>
+								<h4>Etiqueta de papel para impressão térmica</h4>
+								<P>As etiquetas de papel para impressão térmica são bastante utilizadas para balanças, principalmente em padarias, mercearias, supermercados e açougues.</P>
+								<a href="etiqueta_de_papel_para_impressao_termica.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+							</div>
+						</div> <!-- End Col -->
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="single-service wow fadeInRight">
+								<img src="images/etiqueta_de_papel_para_impressão_ribbon_1.jpg" alt=""/>
+								<h4>Etiqueta de papel para impressão com ribbon</h4>
+								<P>As etiquetas de papel para impressão com ribbon geralmente são aquelas que precisam de dados variados, como por exemplo um com código de barras, peso do produto, etc.</P>
+								<a href="etiqueta_de_papel_para_impressao_com_ribbon.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+							</div>
+						</div> <!-- End Col -->
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="single-service wow fadeInRight">
+								<img src="images/etiqueta_para_farmacia_de_manipulaçao.png" alt="etiqueta para farmacia de manipulaçao"/>
+								<h4>Etiqueta para farmácia de manipulação</h4>
+								<P>As etiquetas para farmácia de manipulação e de medicamentos é um segmento altamente regulamentado, já que estamos lidando com a medicação e saúde das pessoas.</P>
+								<a href="etiqueta_para_farmacia_de_manipulaçao.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+							</div>
+						</div> <!-- End Col -->
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="single-service wow fadeInRight">
+								<img src="images/etiqueta_para_industria_2.png" alt="etiqueta para industria"/>
+								<h4>Etiqueta para indústria</h4>
+								<P>As etiquetas para indústria são aquelas utilizadas internamente em diversos processos de controle industriais, sendo que elas podem conter tanto um código de barras, status de produção e resultado do controle de qualidade.</P>
+								<a href="etiqueta_para_industria.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+							</div>
+						</div> <!-- End Col -->
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="single-service wow fadeInRight">
+								<img src="images/etiqueta_para_embalagem_e_sacola_de_presente_2.jpg" alt="etiqueta para embalagens e sacolas de presente"/>
+								<h4>Etiqueta para embalagens e sacolas de presente</h4>
+								<P>As etiquetas para presente são aquelas utilizadas para fechar uma sacola, embalagem, ou folha de seda que envolve o presente.</P>
+								<a href="etiqueta_para_embalagens_e_sacolas_de_presente.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+							</div>
+						</div> <!-- End Col -->
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="single-service wow fadeInRight">
+								<img src="images/etiqueta_para_sacaria.png" alt="etiqueta para sacaria"/>
+								<h4>Etiqueta para sacaria</h4>
+								<P>As etiquetas para sacos de ráfia, big bag e similares requerem uma etiqueta especial, que se fixem à superfície rústica, mesmo com movimentação entre as tramas, além de também precisar ser resistente a umidade, atrito e condições agressivas de armazenamento.</P>
+								<a href="etiqueta_para_sacaria.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+							</div>
+						</div> <!-- End Col -->
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="single-service wow fadeInRight">
+								<img src="images/etiqueta_de_patrimonio_2.jpg" alt="etiquetas de patrimônio"/>
+								<h4>Etiquetas de patrimônio</h4>
+								<P>As etiquetas de patrimônio são etiquetas recomendadas para identificação de ativo fixo em escolas, empresas, indústrias e universidades.</P>
+								<a href="etiquetas_de_patrimônio.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+							</div>
+						</div> <!-- End Col -->
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="single-service wow fadeInRight">
+								<img src="images/etiqueta_removivel_2.png" alt="etiqueta removivel"/>
+								<h4>Etiqueta removível</h4>
+								<P>As etiquetas removíveis são aquelas que ao serem removidas do produto, não deixa nenhum resíduo.</P>
+								<a href="etiqueta_removivel.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+							</div>
+						</div> <!-- End Col -->
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="single-service wow fadeInRight">
+								<img src="images/etiqueta_holografica.png" alt="etiqueta holografica"/>
+								<h4>Etiqueta holográfica</h4>
+								<P>As etiquetas holográficas são aquelas em que a superfície apresenta um “brilho” em furta-cor:<br>	Para que serve a etiqueta holográfica?
+									As etiquetas holográficas são muito utilizadas para segurança e lacre de garantia.
+									</P>
+								<a href="etiqueta_holografica.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+							</div>
+						</div> <!-- End Col -->
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="single-service wow fadeInRight">
+								<img src="images/etiqueta_resistente_a_agua_2.png" alt="etiqueta resistente a agua"/>
+								<h4>Etiqueta resistente à água</h4>
+								<P>As etiquetas resistentes à água precisam ser feitas em um material específico, o BOPP (Polipropileno Biorientado).
+									Isso porque, a etiqueta deve ser resistente e não modificar a sua aparência em contato com a umidade.</P>
+								<a href="etiqueta_resistente_a_agua.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+							</div>
+						</div> <!-- End Col -->
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="single-service wow fadeInRight">
+								<img src="images/etiqueta_para_altas_temperaturas.png" alt="etiqueta para altas temperaturas"/>
+								<h4>Etiqueta para altas temperaturas</h4>
+								<P>Para as etiquetas resistentes à altas temperaturas geralmente são utilizadas na indústria automotiva, aeronáutica, de eletrônicos, química, motores e equipamentos industriais.</P>
+								<a href="etiqueta_para_altas_temperaturas.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+							</div>
+						</div> <!-- End Col -->
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="single-service wow fadeInRight">
+								<img src="images/etiqueta_para_congelados_2.png" alt="etiqueta para congelados"/>
+								<h4>Etiqueta para congelados</h4>
+								<P>Um setor que ganha cada vez mais destaque no mercado, é o de alimentos congelados. 
+									Muitas vezes são produções artesanais, em menor quantidade, voltado a diversos segmentos, seja marmitas, comida saudável, comida fitness ou gourmet.</P>
+								<a href="etiqueta_para_congelados.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+							</div>
+						</div> <!-- End Col -->
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="single-service wow fadeInRight">
+								<img src="images/etiqueta_para_caixas_de_papelão.png" alt="etiqueta para caixas de papelão"/>
+								<h4>Etiqueta para caixas de papelão</h4>
+								<P>As etiquetas para caixas de papelão são fundamentais para indústrias e comércios dos mais diferentes ramos do mercado, uma vez que possuem a função de passar informações através de sua impressão e facilitar as tarefas cotidianas nas empresas.</P>
+								<a href="etiqueta_para_caixas_de_papelão.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+							</div>
+						</div> <!-- End Col -->
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="single-service wow fadeInRight">
+								<img src="images/etiquetas_resistentes_a_produtos_quimicos_1.jpg" alt="etiquetas resistentes a produtos quimicos"/>
+								<h4>Etiquetas resistentes a produtos químicos</h4>
+								<P>As etiquetas resistentes a produtos químicos devem suportar vários tipos de agressão: óleos, solventes e atritos, garantindo que a etiqueta permaneça no produto durante toda sua para garantir que a etiqueta permanecerá no produto durante o manuseio e toda a sua vida útil.</P>
+								<a href="etiquetas_resistentes_a_produtos_quimicos.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+							</div>
+						</div> <!-- End Col -->
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="single-service wow fadeInRight">
+								<img src="images/etiqueta_tabela_nutricional.jpg" alt="etiqueta tabela nutricional"/>
+								<h4>Etiquetas obrigatórias tabela Nutricional</h4>
+								<P>A etiqueta com tabela nutricional é obrigatória para quase todos os alimentos industrializados.
+									A ANVISA determina que na etiqueta nutricional deve conter algumas informações obrigatórias como a porção de consumo, em gramas ou ml, seguido da medida caseira correspondente (um copo, uma colher de sopa, ¾ de xícara, 2 unidades de torrada).</P>
+								<a href="etiquetas_obrigatorias_nutricional.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+							</div>
+						</div> <!-- End Col -->
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="single-service wow fadeInRight">
+								<img src="images/etiquetas_higienicas.png" alt="Etiqueta de proteção higiênica"/>
+								<h4>Etiqueta de proteção higiênica</h4>
+								<P>A etiqueta de proteção higiênica é utilizada tanto em moda praia, quanto em roupas íntimas.
+									Com certeza você já se deparou com a etiqueta de proteção higiênica ao provar ou comprar um biquini ou calcinha.</P>
+								<a href="etiquetas_higienicas.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+							</div>
+						</div> <!-- End Col -->
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="single-service wow fadeInRight">
+								<img src="images/etiquetas_resistentes_a_produtos_quimicos.png" alt="Etiquetas obrigatórias – Risco químico"/>
+								<h4>Etiquetas obrigatórias  Risco químico</h4>
+								<P>As etiquetas de risco químico devem suportar vários tipos de agressão: óleos, solventes e atritos, garantindo que a etiqueta permanecerá no produto durante o manuseio e toda a sua vida útil. </P>
+								<a href="etiquetas_obrigatorias _risco_quimico.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+							</div>
+						</div> <!-- End Col -->
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="single-service wow fadeInRight">
+								<img src="images/etiqueta_Selo_Inmetro.jpg" alt="Etiquetas obrigatórias – Selos Inmetro"/>
+								<h4>Etiquetas obrigatórias  Selos Inmetro</h4>
+								<P>Os selos do Inmetro servem para demonstrar ao consumidor que aquele produto passou por testes e processos que garantem maior segurança na compra. 
+									Com certeza você já se deparou com vários desses selos.</P>
+								<a href="etiquetas_obrigatorias_selos_Inmetro.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+							</div>
+						</div> <!-- End Col -->
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="single-service wow fadeInRight">
+								<img src="images/etiquetas_obrigatorias_eficiencia_energetica.png" alt="Etiquetas obrigatórias Eficiência energética"/>
+								<h4>Etiquetas obrigatórias Eficiência energética</h4>
+								<P>Com certeza você já se deparou com etiqueta de eficiência energética nos eletrodomésticos.
+									A etiqueta de eficiência energética, também chamada de ENCE - Etiqueta Nacional de Conservação de Energia, apresenta alguns dados do produto, como marca, modelo e tensão, e um gráfico em barras, que aponta em qual “posição” de eficiência aquele eletrodoméstico se encontra. </P>
+								<a href="etiquetas_obrigatorias_eficiencia_energetica.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+							</div>
+						</div> <!-- End Col -->
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="single-service wow fadeInRight">
+								<img src="images/etiquetas_obrigatorias_manuseio_e_transporte_1.jpg" alt="Etiquetas obrigatórias – Símbolos de manuseio e transporte"/>
+								<h4>Etiquetas obrigatórias Símbolos de manuseio e transporte</h4>
+								<P>Com certeza você já se deparou com uma daquelas etiquetas indicando “cuidado, frágil” ou “este lado para cima”.
+									Essas são apenas alguns de uma série de símbolos conhecidos com indicações de manuseio no transporte. </P>
+								<a href="etiquetas_obrigatorias_manuseio_e_transporte.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+							</div>
+						</div> <!-- End Col -->
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="single-service wow fadeInRight">
+								<img src="images/etiqueta_bordada_2.jpg" alt="Etiquetas etiquetas bordadas"/>
+								<h4>Etiquetas para Confecção Etiquetas bordadas</h4>
+								<P>As etiquetas bordadas são etiquetas personalizadas utilizadas nas confecções de roupas, e servem para identificar a marca da peça, bem como a numeração da roupa.</P>
+								<a href="etiquetas_para_confecçao_etiquetas_bordadas.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+							</div>
+						</div> <!-- End Col -->
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="single-service wow fadeInRight">
+								<img src="images/etiquetas_para_confecçao_nylon_emborrachado_1.jpg" alt="etiquetas para confecçao nylon emborrachado"/>
+								<h4>Etiquetas para Confecção<br> Etiqueta em nylon emborrachado</h4>
+								<P>As etiquetas em nylon emborrachado são bastante utilizadas em confecções de roupas em geral e na indústria moveleira.<br>
+									Além da marca, a etiqueta também informa a composição do tecido, o modo de lavagem e outras informações obrigatórias.<br></P>
+								<a href="etiquetas_para_confecçao_nylon_emborrachado.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+							</div>
+						</div> <!-- End Col -->
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="single-service wow fadeInRight">
+								<img src="images/etiquetas_para_confecçao_em_cetim_1.jpg" alt="etiqueta tabela nutricional"/>
+								<h4>Etiquetas para Confecção<br>Etiqueta em cetim</h4>
+								<P>As etiquetas em cetim são bastante utilizadas em confecções de roupas em geral, principalmente em uniformes, e na indústria moveleira.</P>
+								<a href="etiquetas_para_confecçao_em_cetim.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+							</div>
+						</div> <!-- End Col -->
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="single-service wow fadeInRight">
+								<img src="images/etiqueta_cetim_soft.jpg" alt="etiqueta cetim soft"/>
+								<h4>FITAS</h4>
+								<P>As fitas personalizadas produzidas pela Image Etiquetas são utilizadas principalmente nas embalagens para presentes, para fechar as sacolas ou caixas.</P>
+								<a href="fita_cetim.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+							</div>
+						</div> <!-- End Col -->
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="single-service wow fadeInRight">
+								<img src="images/tag_3.jpg" alt="tag 3"/>
+								<h4>TAG</h4>
+								<P>As etiquetas TAG são etiquetas sem cola, que são penduradas, amarradas, costuradas ou encaixadas em suportes e objetos. 
+									Fornecemos TAGs principalmente para confecções, mas podem ser também utilizadas para gôndolas de supermercado, bilhetes e outros.</P>
+								<a href="etiqueta_tag.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+							</div>
+						</div> <!-- End Col -->
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="single-service wow fadeInRight">
+								<img src="images/lacre_picote_1.jpg" alt="lacre picote"/>
+								<h4>LACRE DE SEGURANÇA<br>Lacre com picotes</h4>
+								<P>Lacres de papel com picotes são geralmente indicados onde há uma necessidade baixa de segurança, que não requer investimentos mais robustos, como o lacre “VOID” ou lacre casca de ovo.</P>
+								<a href="lacre_picote.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+							</div>
+						</div> <!-- End Col -->
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="single-service wow fadeInRight">
+								<img src="images/casca_de _ovo.png" alt="lacre casca de ovo"/>
+								<h4>Lacre casca de ovo</h4>
+								<P>A etiqueta de lacre destrutível, conhecida como “lacre casca de ovo” é bastante conhecida.
+									Ela é feita em um material que se quebra facilmente e em pequenas partes quando removida, de modo que fica evidente a violação:</P>
+								<a href="lacre_ casca_de_ovo.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+							</div>
+						</div> <!-- End Col -->
+						<div class="col-md-4 col-sm-6 col-xs-12">
+							<div class="single-service wow fadeInRight">
+								<img src="images/lacre_void.jpg" alt="lacre VOID"/>
+								<h4>Lacre VOID</h4>
+								<P>O lacre VOID faz parte das etiquetas utilizadas para segurança e indicação de violação quando forem removidas.
+									Ela possui um mecanismo de proteção contra cópias e violações, bem como garantia de autenticidade.</P>
+								<a href="lacre_void.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+							</div>
+						</div> <!-- End Col -->
+					</div>
+				</div>	<!-- END CONTAINER -->
+			</section>
+		<!-- END SERVICE -->	
+		
+		<!-- START SERVICE -->
+		<section id="service2" class="section_padding">
+			<div class="container">
+				<div class="section_heading text-center wow zoomIn">
+					<h2>Nossos <span>Rótulos</span></h2>
+					<p><br/>Produzimos diversos tipos de Etiquetas e Rótulos</p>	
+				
+					<div class="section_heading_border">
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+				</div> <!-- END HEADING -->
+				
+				<div class="row text-center">
+					<div class="col-md-4 col-sm-6 col-xs-12">
+						<div class="single-service wow fadeInLeft">
+							<img src="images/etiqueta_e_rótulo_para_alimento_2.jpg" alt="etiquetas papel couche"/>
+							<h4>Rótulo para alimento</h4>
+							<P>O rótulo adesivo para embalagens de alimento é aquele que além de conquistar o consumidor, possui todas as informações necessárias sobre o produto. 
+								Geralmente, quando o produto está na prateleira do supermercado, o que chama a atenção do consumidor e lhe “enche os olhos” é o rótulo. Uma embalagem com um rótulo bem elaborado identificará os valores da marca, conquistando a empatia do consumidor.
+							</P>
+							<a href="rotulo_para_alimento.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>	
+						</div>
+					</div> <!-- End Col -->
+					<div class="col-md-4 col-sm-6 col-xs-12">
+						<div class="single-service wow fadeInDown">
+							<img src="images/rotulo_para_bebida_2.jpg" alt=""/>
+							<h4>Rótulo para bebida</h4>
+							<P>A rotulagem de vinhos e cervejas artesanais exigem cuidado em relação a inovação do design para se destacarem na prateleira.
+								O rótulo colado na embalagem é a grande chance de conquistar o consumidor e passar os valores de sua marca.						   
+							</P>
+							<a href="rotulo_para_bebida.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+						</div>
+					</div> <!-- End Col -->						
+					<div class="col-md-4 col-sm-6 col-xs-12">
+						<div class="single-service wow fadeInRight">
+							<img src="images/etiqueta_e_rótulo_para_produto_químico.jpg" alt="etiqueta e rótulo para produto químico"/>
+							<h4>Rótulo para produto químico e produto para limpeza</h4>
+							<P>Os rótulos produzidos para produtos químicos e para materiais de limpeza são feitos em materiais especiais e mais resistentes, capazes de suportar agressão e atrito, para permanecer intacto durante toda a vida útil do produto.
+							</P>
+							<a href="rotulo_para_produto_quimico.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+						</div>
+					</div> <!-- End Col -->
+					<div class="col-md-4 col-sm-6 col-xs-12">
+						<div class="single-service wow fadeInLeft">
+							<img src="images/rótulo_e_etiqueta_para_cosmético_3.jpg" alt="rótulo e etiqueta para cosmético 3"/>
+							<h4>Rótulo para cosmético</h4>
+							<P>Para que o rótulo para cosmético se mantenha visível e com todas as informações necessárias durante o seu uso, é importante que o seu rótulo seja resistente a umidade, já que esses produtos costumam ficar no banheiro, um ambiente com bastante umidade.</P>
+							<a href="rotulo_para_cosmetico.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+						</div>
+					</div> <!-- End Col -->
+					<div class="col-md-4 col-sm-6 col-xs-12">
+						<div class="single-service wow fadeInUp">
+							<img src="images/etiqueta_e_rótulo_para_farmárcia_e_medicamento_2.jpg" alt="etiqueta e rótulo para farmárcia e medicamento 2"/>
+							<h4>Rótulo para medicamentos</h4>
+							<P>A rotulagem de medicamentos é um segmento altamente regulamentado, já que estamos lidando com a medicação e saúde das pessoas.
+								</P>
+								<a href="rotulo_para_medicamentos.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+						</div>
+					</div> <!-- End Col -->
+					<div class="col-md-4 col-sm-6 col-xs-12">
+						<div class="single-service wow fadeInRight">
+							<img src="images/etiqueta_e_rótulo_para_lubrificante_e_auto-peças.jpg" alt="etiqueta e rótulo para lubrificante e auto-peças"/>
+							<h4>Rótulo para lubrificante e auto-peças</h4>
+							<P>Os rótulos para lubrificantes e auto-peças costumam ser colados em embalagens que ficam exibidas em oficinas mecânicas e em postos de gasolina.</P>
+								<a href="rotulo_para_lubrificante_e_autopeças.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+						</div>
+					</div> <!-- End Col -->
+					<div class="col-md-4 col-sm-6 col-xs-12">
+						<div class="single-service wow fadeInRight">
+							<img src="images/rotulo_para_contato_direto_com_alimentos_1.jpg" alt="rotulo para contato direto com alimentos"/>
+							<h4>Rótulo para contato direto com alimentos</h4>
+							<P>Os rótulos para contato direto com alimentos devem atender as exigências do órgão regulador, a ANVISA, uma vez que por serem colados diretamente nos alimentos devem ser feitos em materiais que não sejam tóxicos e não possibilite a migração da substância para o alimento.</P>
+							<a href="rotulo_para_contato_direto_com_alimentos.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+						</div>
+					</div> <!-- End Col -->
+					<div class="col-md-4 col-sm-6 col-xs-12">
+						<div class="single-service wow fadeInRight">
+							<img src="images/rotulos_para_carnes_e_frigorificos_2.jpg" alt="rotulos para carnes e frigorificos"/>
+							<h4>Rótulos para carnes e frigoríficos</h4>
+							<P>Assim como os rótulos para contato direto com o alimento os rótulos para carnes e frigoríficos também precisam atender as exigências do órgão regulador, a ANVISA, uma vez que por, estarem em contato direto com as carnes, devem ser feitos em materiais que não sejam tóxicos e não possibilite a migração da substância para o alimento.</P>
+							<a href="rotulos_para_carnes_e_frigorificos.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+						</div>
+					</div> <!-- End Col -->
+					<div class="col-md-4 col-sm-6 col-xs-12">
+						<div class="single-service wow fadeInRight">
+							<img src="images/rotulo_e_etiqueta_para_indústria_2.jpg"/>
+							<h4>Rótulo para indústria de móveis, eletrodomésticos e utensílios domésticos</h4>
+							<P>Com certeza você já se deparou com rótulos colados em móveis, eletrodomésticos e em utensílios domésticos, e, muitas vezes encontrou dificuldade para retirar o rótulo sem deixar resquícios de cola.</P>
+							<a href="rotulo_para_industria_de_moveis_eletrodomesticos_e_utensilios_domesticos.html#about_us" class="btn btn-default main_btn botton_box">Saiba mais</a>
+						</div>
+					</div> <!-- End Col -->
+				</div>
+			</div>	<!-- END CONTAINER -->
+		</section>
+	<!-- END SERVICE -->
+		
+		<!-- START BLOG -->
+			<section id="blog" class="gray_bg section_padding">
+				<div class="container">
+					<div class="section_heading text-center wow zoomIn">
+						<h2><span>Informativos</span></h2>
+						<p>Saiba mais sobre o mercado de Etiquetas</p>	
+					
+						<div class="section_heading_border">
+							<span></span>
+							<span></span>
+							<span></span>
+						</div>
+					</div> <!-- END HEADING -->
+					
+					<div class="blog_area wow fadeInUp">
+						<div class="row">
+							<div class="col-md-4 col-sm-6 col-xs-12">
+								<div class="post-slide">
+									<div class="post-img">
+										<img src="images/blog/1.jpg" alt="">
+										<span class="icons">
+											<img src="images/blog/1(1).png" alt="">
+										</span>
+									</div>
+									<div class="post-review">
+										<a href="#"><h3 class="post-title">Normas Técnicas- Guia de Etiquetagem</h3></a>
+										<ul class="post-bar">
+											<li><i class="fa fa-calendar"></i>30 de Junho de 2020</li>
+											<li><i class="fa fa-user"></i> Image</li>
+										</ul>
+										<p class="post-description">Por lei, as informações contidas nas etiquetas estão presentes em todos os produtos têxteis: Roupas, travesseiros, colchões, almofadas, toalhas de mesa, etc. A afixação da etiqueta é obrigatória e deve estar sempre à vista do consumidor.</p>
+										<a href="#" class="read">saiba mais<i class="fa fa-angle-right"></i></a>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-4 col-sm-6 col-xs-12">
+								<div class="post-slide">
+									<div class="post-img">
+										<img src="images/blog/2.jpg" alt="">
+										<span class="icons">
+											<img src="images/blog/1(2).png" alt="">
+										</span>
+									</div>
+									<div class="post-review">
+										<a href="#"><h3 class="post-title">Entenda os símbolos das etiquetas</h3></a>
+										<ul class="post-bar">
+											<li><i class="fa fa-calendar"></i>30 de Junho de 2020</li>
+											<li><i class="fa fa-user"></i> Image</li>
+										</ul>
+										<p class="post-description">As informações contidas na etiqueta de quaisquer produtos têxteis tem a finalidade de informar sobre a composição, a origem e os cuidados dos produtos, além de ser fundamental para os condumidores que precisam fazer prevenção de reações alérgicas a determinadas fibras e/ou filamentos têxteis.
+											</p>
+										<a href="#" class="read">saiba mais<i class="fa fa-angle-right"></i></a>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-4 col-sm-6 col-xs-12">
+								<div class="post-slide">
+									<div class="post-img">
+										<img src="images/blog/2.jpg" alt="">
+										<span class="icons">
+											<img src="images/blog/1(2).png" alt="">
+										</span>
+									</div>
+									<div class="post-review">
+										<a href="#"><h3 class="post-title">Entenda os símbolos das etiquetas</h3></a>
+										<ul class="post-bar">
+											<li><i class="fa fa-calendar"></i>30 de Junho de 2020</li>
+											<li><i class="fa fa-user"></i> Image</li>
+										</ul>
+										<p class="post-description">As informações contidas na etiqueta de quaisquer produtos têxteis tem a finalidade de informar sobre a composição, a origem e os cuidados dos produtos, além de ser fundamental para os condumidores que precisam fazer prevenção de reações alérgicas a determinadas fibras e/ou filamentos têxteis.
+											</p>
+										<a href="#" class="read">saiba mais<i class="fa fa-angle-right"></i></a>
+									</div>
+								</div>
+							</div>
+						</div> <!-- END ROW -->
+					</div> <!-- END AREA -->
+				</div> <!-- END CONTAINER -->
+			</section>
+		<!-- END BLOG -->
+		
+		<!-- START CONTACT -->
+			<section id="contact" class="section_padding">				
+				<div class="container">
+					<div class="section_heading text-center wow zoomIn">
+						<h2>Contatos <span></span></h2>
+						<p>FALE COM A GENTE! <br/></p>	
+					
+						<div class="section_heading_border">
+							<span></span>
+							<span></span>
+							<span></span>
+						</div>
+					</div> <!-- END HEADING -->
+					<div class="contact_area">
+						<div class="row">
+							<div class="col-md-5 col-sm-5 col-xs-12">
+								<div class="single_contact">
+									<h3> Peça seu orçamento <span></span></h3>
+									<ul class="sing_contact_iteam">
+										<li><i class="fa fa-map-marker"></i>R. Arlindo Valente, 1516 - CEP:15057-506<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;São José do Rio Preto – SP</li>
+										<li><i class="fa fa-phone"></i>(17) 3225-3399</li>	
+										<li><i class="fa fa-whatsapp"></i><a href="https://api.whatsapp.com/send?phone=+5517992653199&text=Olá, vamos conversar?">(17) 9 9265-3199</a></li>		
+										<li><i class="fa fa-link"></i> <a href="#home">www.etiquetasimage.com.br</a></li>
+										<li><i class="fa fa-envelope"></i>contato@etiquetasimage.com.br</li>
+									</ul>
+								</div>
+							</div> <!-- END COL -->
+							<div class="col-md-7 col-sm-7 col-xs-12">
+								<div class="single-contact">
+									<form id="contact-form" method="post" action="contact.php" enctype="multipart/form-data">
+										<div class="row">
+											<div class="form-group col-md-6">
+												<div class="contact_form">
+													<input type="text" name="name" class="form-control" placeholder="Nome" required="required">
+												</div>
+											</div>
+											
+											<div class="form-group col-md-6">
+												<div class="contact_form">
+													<input type="text" name="subject" class="form-control" placeholder="Assunto" required="required">
+												</div>
+											</div>
+											
+											<div class="form-group col-md-12">
+												<div class="contact_form">
+													<input type="email" name="email" class="form-control" placeholder="Email" required="required">
+												</div>
+											</div>
+											
+											<div class="form-group col-md-12">
+												<div class="contact_form">
+													<textarea rows="6" name="message" class="form-control" placeholder="Sua Mensagem" required="required"></textarea>
+												</div>
+											</div>
+											
+											<div class="contact_form_btn text-center">
+												<button type="submit" value="Send message" name="submit" id="submitButton" class="btn btn-default main_btn ct_btn" title="Submit Your Message!">enviar uma menssagem</button>
+											</div>
+										</div>
+									</form>
+								</div>
+							</div> <!-- END COL -->
+						</div> <!-- END ROW -->
+					</div> <!-- END AREA -->
+				</div> <!-- END CONTAINER -->
+			</section>
+		<!-- END CONTACT -->
+		
+		<!-- START COPYRIGHT -->
+			<section class="copyright_area">
+				<div class="copyright text-center">
+					<div class="copy_text">
+						<p><a href="https://sislivre.com.br">Sislivre</a> | Design Bindas</p>
+					</div>
+				</div>
+			</section>
+		<!-- END COPYRIGHT -->
+		
+		<!-- Latest jQuery -->
+			<script src="js/jquery.js"></script>
+		<!-- Latest compiled and minified Bootstrap -->
+			<script src="js/bootstrap.min.js"></script>
+		<!-- Latest compiled and easing -->	
+			<script src="js/jquery.easing.1.3.min.js"></script>		
+		<!-- Latest Modernizr -->	
+			<script src="js/modernizr-2.8.3.min.js"></script>
+		<!-- Latest Modernizr -->	
+			<script src="js/jquery.stellar.min.js"></script>
+		<!-- Isotope min js -->
+			<script src="js/isotope.pkgd.min.js"></script>
+		<!-- Owl-carousel min js  -->
+			<script src="js/owl.carousel.min.js"></script>
+		<!-- Lightbox min js  -->
+			<script src="js/lightbox.min.js"></script>
+		<!-- Jquery inview js -->
+			<script src="js/jquery.inview.min.js"></script>
+		<!-- scrolltopcontrol js -->
+			<script src="js/scrolltopcontrol.js"></script>
+		<!-- WOW - Reveal Animations When You Scroll -->
+			<script src="js/wow.min.js"></script>
+		<!-- Main js -->
+			<script src="js/main.js"></script>
+
+    </body>
+</html>
